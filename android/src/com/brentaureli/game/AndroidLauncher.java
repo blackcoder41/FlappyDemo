@@ -1,4 +1,4 @@
-package com.brentaureli.game.android;
+package com.brentaureli.game;
 
 import android.os.Bundle;
 
