@@ -46,3 +46,4 @@ Run this gradle task in the terminal
 Tested using:
 - Xcode Version 15.2 (15C500b)
 - Simulator Version 15.2 (1019)
+- iOS Version 17.2
