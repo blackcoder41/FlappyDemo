@@ -2,7 +2,7 @@
 Flappy Bird game using libGDX. Forked from [FlappyDemo](https://github.com/BrentAureli/FlappyDemo) by [BrentAureli ](https://github.com/BrentAureli).
 
 ## Desktop
-Run this gradle run in the terminal
+Run this gradle task in the terminal
 ```
 ./gradlew :desktop:run
 ```
@@ -16,6 +16,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.3.1+2-LTS-6, mixed mode, sharing)
 ```
 
 ## Android
+Run this gradle task in the terminal
 ```
 ./gradlew :android:installDebug
 ./gradlew :android:run
@@ -37,6 +38,7 @@ Non-Bundled Plugins:
 
 
 ## iOS
+Run this gradle task in the terminal
 ```
 ./gradlew launchIPhoneSimulator
 ```
